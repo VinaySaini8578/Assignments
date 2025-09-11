@@ -1,0 +1,14 @@
+C:\Users\Vinay\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.exe
+C:\Users\Vinay\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.deps.json
+C:\Users\Vinay\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.runtimeconfig.json
+C:\Users\Vinay\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.dll
+C:\Users\Vinay\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.pdb
+C:\Users\Vinay\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinay\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.AssemblyInfoInputs.cache
+C:\Users\Vinay\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.AssemblyInfo.cs
+C:\Users\Vinay\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Vinay\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.dll
+C:\Users\Vinay\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\refint\CurrencyConverter.dll
+C:\Users\Vinay\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.pdb
+C:\Users\Vinay\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.genruntimeconfig.cache
+C:\Users\Vinay\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\ref\CurrencyConverter.dll
